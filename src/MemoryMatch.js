@@ -57,7 +57,7 @@ export class MemoryMatch extends Phaser.Scene {
       color: '#ffffff'
     }).setOrigin(1, 0);
 
-    this.add.text(w / 2, h - 30, '滑動手指或滑鼠切水果！', {
+    this.add.text(w / 2, h - 30, '滑動手指或滑鼠切食物！', {
       fontSize: '17px',
       color: '#b8d7dc'
     }).setOrigin(0.5);
